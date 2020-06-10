@@ -18,7 +18,7 @@ namespace KHash
 
             for (int i = 0; i < n; i++)
             {
-                myHashTable.Set(stringHasher.Hash("test" + i), "KURGOOZZZ");
+                myHashTable.Set(stringHasher.Hash("test" + i), "KURGOOSE");
                 // if (i % 100 == 0)
                 // {
                 //     Console.WriteLine(i);
